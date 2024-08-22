@@ -1,0 +1,73 @@
+{
+  "_args": [
+    [
+      "@zalaris/ionic-plugin-deeplinks@1.0.4",
+      "H:\\zak\\gander\\FELSGander\\gander-app"
+    ]
+  ],
+  "_development": true,
+  "_from": "@zalaris/ionic-plugin-deeplinks@1.0.4",
+  "_id": "@zalaris/ionic-plugin-deeplinks@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-JPM6qm7amS+cJHXA4GAtb1zlGalYsrByYLcJbhHiRaFtmpcERUn2lbsjto3n7buqUYepcQ1xJ3GFguV2CRoGMA==",
+  "_location": "/@zalaris/ionic-plugin-deeplinks",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@zalaris/ionic-plugin-deeplinks@1.0.4",
+    "name": "@zalaris/ionic-plugin-deeplinks",
+    "escapedName": "@zalaris%2fionic-plugin-deeplinks",
+    "scope": "@zalaris",
+    "rawSpec": "1.0.4",
+    "saveSpec": null,
+    "fetchSpec": "1.0.4"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@zalaris/ionic-plugin-deeplinks/-/ionic-plugin-deeplinks-1.0.4.tgz",
+  "_spec": "1.0.4",
+  "_where": "H:\\zak\\gander\\FELSGander\\gander-app",
+  "author": {
+    "name": "Max Lynch",
+    "email": "max@ionic.io"
+  },
+  "bugs": {
+    "url": "https://github.com/zalaris/ionic-plugin-deeplinks/issues"
+  },
+  "cordova": {
+    "id": "@zalaris/ionic-plugin-deeplinks",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "mkpath": ">=1.0.0",
+    "node-version-compare": ">=1.0.1",
+    "plist": ">=1.2.0",
+    "xml2js": ">=0.4"
+  },
+  "description": "Ionic Deeplinks Plugin",
+  "homepage": "https://github.com/zalaris/ionic-plugin-deeplinks#readme",
+  "issue": "https://github.com/zalaris/ionic-plugin-deeplinks/issues",
+  "keywords": [
+    "ionic",
+    "cordova",
+    "deeplink",
+    "deeplinks",
+    "mobile",
+    "hybrid",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "@zalaris/ionic-plugin-deeplinks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zalaris/ionic-plugin-deeplinks.git"
+  },
+  "version": "1.0.4"
+}
